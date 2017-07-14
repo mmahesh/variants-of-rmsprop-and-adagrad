@@ -1,6 +1,6 @@
 # Variants of Adagrad and RMSProp
 
-Keras implementation of SC-Adagrad, SC-RMSProp and RMSProp Algorithms proposed in [here](https://arxiv.org/abs/1706.05507){:target="_blank"}
+Keras implementation of SC-Adagrad, SC-RMSProp and RMSProp Algorithms proposed in [here](https://arxiv.org/abs/1706.05507)
 
 Short version accepted at ICML, 17 can be found [here](http://www.ml.uni-saarland.de/Publications/MukHei-VariantsRMSPropAdagradLogRegret.pdf)
 
