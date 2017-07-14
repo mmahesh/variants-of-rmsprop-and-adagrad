@@ -4,12 +4,12 @@ Keras implementation of SC-Adagrad, SC-RMSProp and RMSProp Algorithms proposed i
 
 Short version accepted at ICML, 17 can be found [here](http://www.ml.uni-saarland.de/Publications/MukHei-VariantsRMSPropAdagradLogRegret.pdf)
 
-I wrote a blog [here](https://mmahesh.github.io/articles/2017-07/tutorial-on-sc-adagrad-a-new-stochastic-gradient-method-for-deep-learning) describing the algorithms in simple terms so that it is easy to understand the gist of the algorithms.
+I wrote a blog [here](https://mmahesh.github.io/articles/2017-07/tutorial-on-sc-adagrad-a-new-stochastic-gradient-method-for-deep-learning),  describing the algorithms in simple terms, so that it is easy to understand the gist of the algorithms.
 
 
 # Usage
 
-So, you created a deep network using keras, now you want to train with above algorithms. Copy the file  "new_optimizers.py" into your repository
+So, you created a deep network using keras, now you want to train with above algorithms. Copy the file  "new_optimizers.py" into your repository. Then in the file where the model is created (also to be compiled) add the following
 
 ```python
 from new_optimizers.py import *
