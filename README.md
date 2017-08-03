@@ -30,7 +30,7 @@ Then in the code where you compile your keras model you must set ```optimizer=sc
 
 # Overview of Algorithms 
 <div align="center">
-  <img src="./poster_image.jpg"><br><br>
+  <a href='https://raw.githubusercontent.com/mmahesh/variants_of_rmsprop_and_adagrad/master/poster_image.jpg' target='_blank'><img src="https://raw.githubusercontent.com/mmahesh/variants_of_rmsprop_and_adagrad/master/poster_image.jpg"></a><br><br>
 </div>
 
 -----------------
