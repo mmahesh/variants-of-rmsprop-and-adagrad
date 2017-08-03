@@ -28,4 +28,12 @@ rmsprop_variant = RMSProp_variant()
 
 Then in the code where you compile your keras model you must set ```optimizer=sc_adagrad```. You can do the same for SC-RMSProp and RMSProp algorithms.
 
+# Overview of Algorithms 
+<div align="center">
+  <img src="./poster_image.jpg"><br><br>
+</div>
+
+-----------------
+
+
 ## I hope this is helpful :).
