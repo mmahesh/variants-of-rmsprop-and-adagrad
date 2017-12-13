@@ -1,4 +1,4 @@
-# Variants of Adagrad and RMSProp
+# Variants of RMSProp and Adagrad
 
 Keras implementation of SC-Adagrad, SC-RMSProp and RMSProp Algorithms proposed in [here](https://arxiv.org/abs/1706.05507)
 
