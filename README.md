@@ -4,8 +4,6 @@ Keras implementation of SC-Adagrad, SC-RMSProp and RMSProp Algorithms proposed i
 
 Short version accepted at ICML, 17 can be found [here](http://www.ml.uni-saarland.de/Publications/MukHei-VariantsRMSPropAdagradLogRegret.pdf)
 
-I wrote a blog [here](https://mmahesh.github.io/articles/2017-07/tutorial-on-sc-adagrad-a-new-stochastic-gradient-method-for-deep-learning),  describing the algorithms in simple terms, so that it is easy to understand the gist of the algorithms.
-
 
 # Usage
 
