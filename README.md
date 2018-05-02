@@ -33,5 +33,3 @@ Then in the code where you compile your keras model you must set ```optimizer=sc
 
 -----------------
 
-
-## I hope this is helpful :).
