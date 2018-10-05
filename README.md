@@ -1,10 +1,10 @@
 # Variants of RMSProp and Adagrad
 
-Keras implementation of SC-Adagrad, SC-RMSProp and RMSProp Algorithms proposed in [here](https://arxiv.org/abs/1706.05507){:target="_blank"}
+Keras implementation of SC-Adagrad, SC-RMSProp and RMSProp Algorithms proposed in <a href="https://arxiv.org/abs/1706.05507" target="_blank">here</a>
 
-Short version accepted at ICML, 17 can be found [here](http://www.ml.uni-saarland.de/Publications/MukHei-VariantsRMSPropAdagradLogRegret.pdf){:target="_blank"}
+Short version accepted at ICML, 17 can be found <a href="http://www.ml.uni-saarland.de/Publications/MukHei-VariantsRMSPropAdagradLogRegret.pdf" target="_blank">here</a>
 
-I wrote a blog/tutorial [here](https://mmahesh.github.io/articles/2017-07/tutorial-on-sc-adagrad-a-new-stochastic-gradient-method-for-deep-learning){:target="_blank"},  describing Adagrad, RMSProp, Adam, SC-Adagrad and SC-RMSProp in simple terms, so that it is easy to understand the gist of the algorithms. 
+I wrote a blog/tutorial <a href="https://mmahesh.github.io/articles/2017-07/tutorial-on-sc-adagrad-a-new-stochastic-gradient-method-for-deep-learning" target="_blank">here</a>,  describing Adagrad, RMSProp, Adam, SC-Adagrad and SC-RMSProp in simple terms, so that it is easy to understand the gist of the algorithms. 
 
 # Usage
 
